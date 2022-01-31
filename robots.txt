@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://evoelement.by/sitemap.xml
