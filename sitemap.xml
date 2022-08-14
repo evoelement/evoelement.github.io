@@ -2,12 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://evoelement.by/categories/</loc>
+    <loc>https://evoelement.by/</loc>
+    <lastmod>2022-08-02T18:38:16+03:00</lastmod>
   </url><url>
-    <loc>http://evoelement.by/</loc>
+    <loc>https://evoelement.by/products/original-bar/</loc>
+    <lastmod>2022-08-02T18:38:16+03:00</lastmod>
   </url><url>
-    <loc>http://evoelement.by/tags/</loc>
+    <loc>https://evoelement.by/products/musli-strawberry-banana/</loc>
+    <lastmod>2022-08-02T18:36:16+03:00</lastmod>
   </url><url>
-    <loc>http://evoelement.by/search/</loc>
+    <loc>https://evoelement.by/blog/post-1/</loc>
+    <lastmod>2022-08-02T18:11:16+03:00</lastmod>
+  </url><url>
+    <loc>https://evoelement.by/products/gold-classic/</loc>
+    <lastmod>2022-08-01T22:16:16+03:00</lastmod>
+  </url><url>
+    <loc>https://evoelement.by/terms-conditions/</loc>
+    <lastmod>2022-07-31T14:57:16+03:00</lastmod>
+  </url><url>
+    <loc>https://evoelement.by/products/</loc>
+    <lastmod>2022-07-31T14:53:16+03:00</lastmod>
+  </url><url>
+    <loc>https://evoelement.by/faq/</loc>
+    <lastmod>2022-07-31T14:51:16+03:00</lastmod>
+  </url><url>
+    <loc>https://evoelement.by/contact/</loc>
+    <lastmod>2022-07-31T14:50:16+03:00</lastmod>
+  </url><url>
+    <loc>https://evoelement.by/blog/</loc>
+    <lastmod>2022-07-31T08:32:16+03:00</lastmod>
+  </url><url>
+    <loc>https://evoelement.by/categories/</loc>
+  </url><url>
+    <loc>https://evoelement.by/tags/</loc>
   </url>
 </urlset>
